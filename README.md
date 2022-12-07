@@ -1,42 +1,16 @@
-# Nuxt 3 Minimal Starter
+# CPNT 262 Group Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Ashley Morgan, Myka Peligrino
 
-## Setup
+## Responsibilities
 
-Make sure to install the dependencies:
+### Ashley
+- Blog, Blog Posts (Using Nuxt Content)
+- Blog Content
 
-```bash
-# yarn
-yarn install
+### Myka
+- Universal Components
 
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### Both
+- Rest of website content
+- Finalize website Styling
