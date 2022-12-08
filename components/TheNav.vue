@@ -2,8 +2,7 @@
 <!-- TODO 
   : add tailwind css styles
   : change Site Title
-  : change Page title 
-  : use v-for for nav bar links instead-->
+  : change Page title -->
 
 <template>
   <header>
