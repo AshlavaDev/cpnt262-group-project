@@ -6,7 +6,7 @@ TODO:
   <article>
     <!-- This is the scope of the entire card -->
     
-    <nuxt-link :to="info.link">
+    <NuxtLink :to="info.link">
       <!-- Clickable card - card is linked to another page on click -->
       <img :src="info.image" :alt="info.alternate"></img>
       <div>
@@ -14,7 +14,7 @@ TODO:
         <h3>{{ info.title }}</h3>
         <p>{{ info.description }}</p>
       </div>
-    </nuxt-link>
+    </NuxtLink>
   </article>
 </template>
 
