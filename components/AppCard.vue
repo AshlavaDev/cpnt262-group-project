@@ -1,4 +1,4 @@
-<!-- This is the  Card component - most of the details are just a rough draft. 
+<!-- This is the Card component - most of the details are just a rough draft. 
 TODO:
 - add tailwind css -->
 
