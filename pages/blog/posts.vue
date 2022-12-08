@@ -1,5 +1,5 @@
 <template>
-  <h1>Blog Title Page With Posts</h1>
+  <h1 class="text-center text-6xl md:8xl py-4">Blog Title Page With Posts</h1>
   <main>
     
     <ContentList path="/blog" v-slot="{ list }" class="flex flex-col gap-4">
