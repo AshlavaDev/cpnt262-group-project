@@ -3,6 +3,6 @@
 
 <template>
   <footer>
-    <p>&copy; 2022 Ashley Morgan & Myka Peligrino</p>
+    <p>&copy; 2022 Ashley Morgan &amp; Myka Peligrino</p>
   </footer>
 </template>
