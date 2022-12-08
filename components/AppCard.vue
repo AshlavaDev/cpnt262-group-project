@@ -8,7 +8,7 @@ TODO:
     
     <NuxtLink :to="info.link">
       <!-- Clickable card - card is linked to another page on click -->
-      <img :src="info.image" :alt="info.alternate"></img>
+      <nuxt-img preset="cover" :src="info.image" loading="lazy"/>
       <div>
         <!-- This is a container for the title and description -->
         <h3>{{ info.title }}</h3>
