@@ -3,7 +3,7 @@ TODO:
 - make it responsive and add styles with tailwind-->
 
 <template>
-  <header> //insert tailwind here
+  <header>
     <h1>{{ title }}</h1>
   </header>
 </template>

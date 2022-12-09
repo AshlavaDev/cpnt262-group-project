@@ -2,9 +2,8 @@
   <div class="container flex justify-center min-w-full py-4">
     <div class="flex flex-col items-center max-w-screen-sm lg:max-w-screen-lg">
       <div>
-        <h2 class="text-6xl text-center py-4">{{ title }}</h2> 
+        <SectionHeader :title="title" />
         <img :src="`${image}`" :alt="`${alt}`" />
-        
       </div>
       <div class="text-lg md:text-xl py-3 px-2 flex flex-col gap-2 post">
         <ContentSlot :use="$slots.default" />
@@ -19,6 +18,7 @@
 defineProps({
   image: {
     type: String,
+    default: 'Image not found'
   },
   alt: {
     type: String,
