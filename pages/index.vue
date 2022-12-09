@@ -1,4 +1,5 @@
 <template>
+  <AppHead :title="headTitle" />
   <SectionHeader :title="pageTitle"/>
   <AppMain />
 
@@ -7,5 +8,6 @@
 <script setup>
 
 const pageTitle = "Labyritronics";
+const headTitle = pageTitle + " Home";
 
 </script>

@@ -1,4 +1,5 @@
 <template>
+  <AppHead :title="pageTitle" />
   <SectionHeader :title="pageTitle" />
   <AppMain>
     <AppSection>
