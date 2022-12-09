@@ -1,5 +1,5 @@
 <template>
 
-    <AppMain />
-
+  <AppMain />
+  
 </template>
