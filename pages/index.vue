@@ -6,6 +6,6 @@
 
 <script setup>
 
-const pageTitle = "Home Page";
+const pageTitle = "Labyritronics";
 
 </script>
