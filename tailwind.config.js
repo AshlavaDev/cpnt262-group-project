@@ -10,7 +10,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      'headerDisplay': 'Goldman Brush Script MT, Garamond, cursive',
+      'headerDisplay': 'Goldman, Brush Script MT, Garamond, cursive',
       'contentSans': 'Barlow Semi Condensed, Geneva, Verdana, sans-serif'
     },
     extend: {
