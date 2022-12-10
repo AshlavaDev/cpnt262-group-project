@@ -14,3 +14,7 @@
 ### Both
 - Rest of website content
 - Finalize website Styling
+
+## Deployment
+
+[Labyritronics](https://labyritronics.netlify.app/) - Netlify
