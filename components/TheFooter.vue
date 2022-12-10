@@ -1,5 +1,4 @@
 <!-- This is the footer component -->
-<!-- TODO add tailwind css styles -->
 
 <template>
   <footer>

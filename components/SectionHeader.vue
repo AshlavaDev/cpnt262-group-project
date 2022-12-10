@@ -1,6 +1,4 @@
-<!-- This is the page header
-TODO:
-- make it responsive and add styles with tailwind-->
+<!-- This is the page header -->
 
 <template>
   <header class="flex flex-col justify-center items-center grow p-5 m-auto min-w-full bg-cover bg-no-repeat bg-center font-headerDisplay">
