@@ -1,8 +1,6 @@
 <template>
   <AppHead :title="headTitle" />
-  <SectionHeader :title="pageTitle"/>
-  <AppMain />
-
+  <SectionHeader :title="pageTitle" class="bg-homeHero"/>
 </template>
 
 <script setup>

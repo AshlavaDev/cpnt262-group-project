@@ -1,6 +1,6 @@
 <template>
   <AppHead :title="pageTitle" />
-  <SectionHeader :title="pageTitle" />
+  <SectionHeader :title="pageTitle" class="bg-aboutHero"/>
   <AppMain>
     <AppContent :content="aboutContent" />
   </AppMain>
