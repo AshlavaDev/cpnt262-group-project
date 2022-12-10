@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Barlow Semi Condensed';
+  src: url('/assets/fonts/BarlowSemiCondensed-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Goldman';
+  src: url('/assets/fonts/Goldman-Regular.ttf');
+}

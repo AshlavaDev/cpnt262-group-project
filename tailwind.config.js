@@ -9,7 +9,16 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'headerDisplay': 'Goldman, Brush Script MT, Garamond, cursive',
+      'contentSans': 'Barlow Semi Condensed, Geneva, Verdana, sans-serif'
+    },
+    extend: {
+      backgroundImage: {
+        'homeHero': "url('/img/robot-sideview.jpg')",
+        'aboutHero': "url('/img/robot-lookup.jpg')"
+      }
+    },
   },
   plugins: [],
 }
