@@ -1,6 +1,6 @@
 <template>
   <AppHead :title="pageTitle" />
-  <SectionHeader :title="pageTitle" />
+  <SectionHeader :title="pageTitle" class="text-8xl md:text-10xl"/>
   <AppMain>
     <AppSection>
       <ContentList path="/blog" v-slot="{ list }">
