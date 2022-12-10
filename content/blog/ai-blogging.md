@@ -8,7 +8,7 @@ alt: Two robots writing and scrolling the internet
 
 One of the technologies that you need to be aware of is artificial intelligence (AI). This is something that is already starting to change the way that we blog. For example, there are now AI-powered tools that can help you to come up with topics to write about, as well as to generate ideas for posts.
 
-See Simplified [here](https://app.simplified.com/ai)
+See Simplified [here](https://app.simplified.com/a){.bg-indigo-600}
 
 In addition, AI can also be used to help you to improve the quality of your writing. For example, there are now AI-powered editing tools that can help you to identify errors in your writing and suggest corrections.
 
