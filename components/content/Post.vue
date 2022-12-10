@@ -5,10 +5,10 @@
         <SectionHeader :title="title" class="text-4xl md:text-6xl"/>
         <img :src="`${image}`" :alt="`${alt}`" loading="lazy" class="block object-scale-down  max-w-sm"/>
       </div>
-      <div class="text-lg md:text-xl py-3 px-2 flex flex-col gap-2 post font-contentSans">
+      <div class="text-lg md:text-xl py-5 px-2 flex flex-col gap-2 post font-contentSans">
         <ContentSlot :use="$slots.default" />
       </div>
-      <NuxtLink to="/blog/posts" class="px-2 py-3 text-xl bg-slate-600 text-slate-200 border-2 border-slate-600 rounded-sm hover:bg-slate-200 hover:text-slate-200">Back to Posts</NuxtLink>
+      <TheButton :buttonLink="buttonLink" :button-text="buttonText" />
     </div>
   </div>
 </template>
@@ -29,5 +29,8 @@ defineProps({
     default: 'A Blog Post Title'
   }
 })
+
+const buttonText = "Go back to posts";
+const buttonLink = "blog-posts";
 
 </script>
