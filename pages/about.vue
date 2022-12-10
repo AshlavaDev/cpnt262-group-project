@@ -1,10 +1,9 @@
 <template>
   <AppHead :title="pageTitle" />
-  <SectionHeader :title="pageTitle" class="bg-aboutHero text-8xl md:text-10xl"/>
-  <AppMain>
-    <AppContent :content="aboutContent" />
-  </AppMain>
-  
+   <SectionHeader :title="pageTitle" class="bg-aboutHero text-8xl md:text-10xl"/>
+    <AppMain>
+      <AppContent :content="aboutContent" />
+    </AppMain>
 </template>
 
 <script setup>
