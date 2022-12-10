@@ -5,7 +5,7 @@
   : change Page title -->
 
 <template>
-  <header class="bg-gradient-to-l from-teal-700 via-neutral-400 to-stone-600">
+  <header class="bg-gradient-to-r from-gray-100 to-gray-300">
     <nav class="container mx-auto p-4 flex justify-between">
       <NuxtLink to="/" class="font-bold lg:text-5xl">Labyritronics</NuxtLink>
       <ul class="flex gap-10 text-2xl">
