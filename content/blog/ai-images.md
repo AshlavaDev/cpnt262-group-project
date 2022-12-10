@@ -6,7 +6,7 @@ image: /img/nightcafe-image.jpg
 alt: An AI generated image of AI writing
 ---
 
-[Nightcafe AI](https://creator.nightcafe.studio/text-to-image-art)
+[Nightcafe AI](https://creator.nightcafe.studio/)
 
 The picture used in this blog was created using the Nightcafe tool. It uses the keywords of artifical intelligence and writing blogs.
 
