@@ -1,6 +1,4 @@
-<!-- This is the Card component - most of the details are just a rough draft. 
-TODO:
-- add tailwind css -->
+<!-- This is the Card component -->
 
 <template>
   <article class="bg-slate-100 rounded-lg shadow-md w-96 cursor-pointer origin-center hover:origin-top-right">

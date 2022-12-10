@@ -1,8 +1,4 @@
 <!-- This is the footer component -->
-<!-- TODO 
-  : add tailwind css styles
-  : change Site Title
-  : change Page title -->
 
 <template>
   <header class="bg-gradient-to-r from-gray-100 to-gray-300">
