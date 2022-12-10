@@ -1,7 +1,7 @@
 <!-- This is the Card component -->
 
 <template>
-  <article class="bg-slate-100 rounded-lg shadow-md w-96 cursor-pointer origin-center hover:origin-top-right">
+  <article class="bg-slate-100 rounded-lg shadow-md w-96 cursor-pointer origin-center hover:origin-top-right hover:drop-shadow-xl">
     <!-- This is the scope of the entire card -->
     
     <NuxtLink :to="info.link">
